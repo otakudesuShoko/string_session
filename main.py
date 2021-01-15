@@ -26,7 +26,7 @@ tutor = """
 """
 
 template = """
-UserBot support: @userbotindo
+UserBot support: @SuppportOtakudesu
             
 <code>STRING_SESSION</code>: <code>{}</code>
 
